@@ -1,7 +1,7 @@
 url: https://directory.biobankinguk.org
-status: up
-code: 200
-responseTime: 18964
-lastUpdated: 2026-03-22T14:48:36.939Z
+status: down
+code: 502
+responseTime: 13818
+lastUpdated: 2026-03-22T17:01:25.705Z
 startTime: 2026-02-05T10:55:56.986Z
 generator: Upptime <https://github.com/upptime/upptime>
