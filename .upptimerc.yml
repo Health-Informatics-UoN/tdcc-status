@@ -6,7 +6,7 @@ sites:
   - name: Tissue Directory
     url: https://directory.biobankinguk.org
     headers:
-    - "User-Agent: Upptime-HealthCheck"
+    - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122 Safari/537.36"
     
 
 status-website:
