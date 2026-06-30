@@ -4,12 +4,12 @@
     "url": "https://directory.biobankinguk.org",
     "icon": "https://icons.duckduckgo.com/ip3/directory.biobankinguk.org.ico",
     "slug": "tissue-directory",
-    "status": "up",
-    "uptime": "93.27%",
+    "status": "down",
+    "uptime": "93.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
-    "uptimeYear": "93.27%",
+    "uptimeYear": "93.31%",
     "time": 3176,
     "timeDay": 774,
     "timeWeek": 777,
@@ -40,7 +40,8 @@
       "2026-04-07": 42,
       "2026-04-09": 79,
       "2026-04-10": 29,
-      "2026-06-22": 185
+      "2026-06-22": 185,
+      "2026-06-30": 0
     }
   }
 ]
